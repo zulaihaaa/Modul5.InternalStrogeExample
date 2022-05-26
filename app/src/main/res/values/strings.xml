@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternalStroageExample</string>
+    <string name="_2nd_activity">2nd Activity</string>
+    <string name="input_text">Input text here...</string>
+    <string name="_1st_activity">1st activity</string>
+    <string name="textview">TextView</string>
+
+</resources>
